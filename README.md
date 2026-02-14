@@ -42,14 +42,7 @@ If you use these data in academic work, please cite the associated manuscript/pr
 
 (Replace with your final citation when available.)
 
-## Notes on privacy and licensing
 
-- This repository should not include unmasked personal email addresses or other personal identifiers.
-- If any records contain sensitive information, please anonymize them before pushing to GitHub.
-- License: choose one of the following depending on your intent:
-  - **CC BY 4.0** (recommended for open academic sharing)
-  - **CC BY-NC 4.0** (if you want non-commercial only)
-  - Or keep the repo private if data sharing is restricted.
 
 ## Contact
 
